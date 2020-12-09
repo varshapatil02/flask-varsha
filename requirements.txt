@@ -1,0 +1,4 @@
+Flask==1.1.1
+newsapi_python==0.2.6
+newsapi==0.1.1
+gunicorn==20.0.4
